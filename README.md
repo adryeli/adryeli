@@ -8,7 +8,7 @@
 
 `Healthcare` · `Data` · `Cloud` · `AI`
 
-[Portfolio](https://elizabethsena.com) · [LinkedIn](https://www.linkedin.com/in/elizabeth-sena/) · [Email](mailto:contact@elizabethsena.com)
+[Portfolio](https://www.elizabethsena.com) · [LinkedIn](https://www.linkedin.com/in/elizabeth-sena/) · [Email](mailto:contact@elizabethsena.com)
 
 </div>
 
