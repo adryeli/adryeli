@@ -2,7 +2,7 @@
 
 # Elizabeth Sena
 
-### Healthcare Data Analyst | Cloud, Data & AI for Healthcare & Life Sciences
+###  Cloud, Data & AI for Healthcare & Life Sciences
 
 **Building trustworthy data and AI solutions with a growing focus on cloud technologies.**
 
